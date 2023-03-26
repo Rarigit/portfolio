@@ -1,14 +1,11 @@
 <template>
-    <v-app-bar app color="black" dark flat class="px-12">
-        <v-btn>
-            <v-icon color="yellow" left class="mr-2"></v-icon>Top Dev
-        </v-btn>
+    <v-app-bar app color="white" dark flat class="px-12">
+        <v-avatar>
+            <v-btn router-link to="/" color="blue" class="mr-1">AD</v-btn>
+        </v-avatar>
         <v-spacer></v-spacer>
-        <v-btn text @click="scroll('home')" class="text-yellow">Home</v-btn>
-        <v-btn text @click="scroll('about')" class="text-yellow">About</v-btn>
-        <v-btn text @click="scroll('portfolio')" class="text-yellow">Projects</v-btn>
-        <v-btn text @click="scroll('services')" class="text-yellow">Services</v-btn>
-        <v-btn text @click="scroll('contact')" class="text-yellow">Contact</v-btn>
+        <v-btn text class="black--text" v-scroll-to="section2">Projects</v-btn>
+        <v-btn text class="black--text" href="mailto:tkb_sats@gmail.com?subject=Inquiry%20about%20services">Contact</v-btn>
     </v-app-bar>
 </template>
 

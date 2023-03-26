@@ -1,5 +1,5 @@
 <template>
-    <v-footer color="#40C4FF">
+    <v-footer color="white">
         <v-row justify="center" no-gutters>
         <v-btn
             v-for="link in links"
@@ -23,11 +23,6 @@
         name: "FooterFolio",
         data: () => ({
             links: [
-                'Home',
-                'About',
-                'Projects',
-                'Services',
-                'Contact Us',
             ],
         }),
     }
