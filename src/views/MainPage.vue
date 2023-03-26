@@ -12,7 +12,7 @@
                             <v-col cols="12" sm="6" class="black rounded-bl-xl">
                                 <div style="text-align:center; padding: 180px 0;">
                                     <v-card-text class="white--text">
-                                        <h2 class="text-center">Hi. My name is <strong class="strong">Top G</strong></h2>
+                                        <h2 class="text-center">Hi. My name is <strong class="strong">Ahmed Duale</strong></h2>
                                         <br>
                                         <br>
                                         <h2 class="text-center white--text pFont">
@@ -29,7 +29,7 @@
                             <v-col cols="12" sm="6" class="black rounded-bl-xl">
                                 <div style="text-align:center; padding: 180px 0;">
                                     <v-card-text class="white--text">
-                                        <h2 class="pFont"> Top G is Proficient In:
+                                        <h2 class="pFont"> Ahmed Duale is Proficient In:
                                           <br>
                                           <br>
                                           <br>
