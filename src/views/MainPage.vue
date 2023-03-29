@@ -16,9 +16,10 @@
                                         <br>
                                         <br>
                                         <h2 class="text-center white--text pFont">
-                                            As a Full-stack developer, I am driven by a passion for coding and enjoy tacking complex problems though programming. With a keen eye for design,
-                                            I take pride in crafting visually stunning and intuitive websites that enhance the user experience. My ability to effectively strategize and prioritize 
-                                            tasks enable me to efficiently complete multiple projects within tight deadlines, while maintaining a meticulous attention to detail. 
+                                            As a driven junior developer with proficient skills in Python, Javascript, MariadB & SQL. I am passionate about solving
+                                            complex problems through programming. I prioritize tasks effectively and complete multiple projects with high attention
+                                            to detail, while always seeking to acquire new knowledge and skills. With experience in both front-end and back end development,
+                                            I am a strong team player who collaborates well with others to achieve common goals.
                                         </h2>
                                         <br>
                                         <br>
@@ -65,6 +66,10 @@
                                 <h3 class="pFont black--text">A mock delivery food ordering application that allows both restaurants and users to sign up. 
                                 Users can choose from a multitude of restaurants, view menus and place an order. Restaurants can sign up to the site, 
                                 create menu items and confirm orders. Clients can also modify/delete their orders, while restaurants can cancel pending orders.</h3>
+                                <br>
+                                <br>
+                                <v-icon color="yellow" size="77">mdi-progress-alert</v-icon>
+                                <h4>Website Deployment in Progress</h4>
                             </v-list-item-content>
                         </v-list-item>
                     </v-app-bar>
@@ -83,6 +88,10 @@
                                 This data was then used to set up portfolios and predictions for clients of the site. The predictions feature allows for the 
                                 client to estimate the future price of a coin at any future arbitrary amount of time whether its 5 minutes or 24 hours. Once the 
                                 elapsed time-duration is over, the client can then see if their prediction was below or above the actual current price of the token in real-time.</h3>
+                                <br>
+                                <br>
+                                <v-icon color="yellow" size="77">mdi-progress-alert</v-icon>
+                                <h4>Website Deployment in Progress</h4>
                             </v-list-item-content>
                         </v-list-item>
                     </v-app-bar>
