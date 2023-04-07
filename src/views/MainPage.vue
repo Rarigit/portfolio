@@ -9,13 +9,13 @@
                 <v-window v-model="step">
                     <v-window-item :value="1">
                         <v-row>
-                            <v-col cols="12" sm="6" class="black rounded-bl-xl">
+                            <v-col cols="12" sm="6" class="blue rounded-bl-xl">
                                 <div style="text-align:center; padding: 180px 0;">
                                     <v-card-text class="white--text">
                                         <h2 class="text-center">Hi. My name is <strong class="strong">Ahmed Duale</strong></h2>
                                         <br>
                                         <br>
-                                        <h2 class="text-center white--text pFont">
+                                        <h2 class="text-center black--text pFont">
                                             As a driven junior developer with proficient skills in Python, Javascript, MariadB & SQL. I am passionate about solving
                                             complex problems through programming. I prioritize tasks effectively and complete multiple projects with high attention
                                             to detail, while always seeking to acquire new knowledge and skills. With experience in both front-end and back end development,
@@ -61,7 +61,7 @@
                     <v-app-bar align="center" justify="center" flat color="blue" class="mt-7" height="500vh" width="30vw">
                         <v-list-item class="mb-12 white--text">
                             <v-list-item-content>
-                                <h1 class="white--text mx-auto pFont">Foodie</h1>
+                                <h1 class="white--text mx-auto pFont">Foodze</h1>
                                 <v-text-field class="mb-2" large prepend-icon="mdi-car"></v-text-field>
                                 <h3 class="pFont black--text">A mock delivery food ordering application that allows both restaurants and users to sign up. 
                                 Users can choose from a multitude of restaurants, view menus and place an order. Restaurants can sign up to the site, 
@@ -82,18 +82,16 @@
                     <v-app-bar flat color="blue" class="mt-7" height="500vh" width="30vw">
                         <v-list-item class="mb-12 white--text">
                             <v-list-item-content>
-                                <h1 class="white--text mx-auto pFont">Bettoken</h1>
+                                <h1><a class="white--text mx-auto pFont" href="https://bettoken.muhibnetwork.com" target="_blank" style="text-decoration:none;">Bettoken</a></h1>
                                 <v-text-field class="mb-2" large prepend-icon="mdi-chart-line"></v-text-field>
+                                <br>
+                                <br>
                                 <h3 class="pFont black--text">A Full-stack project that implemented a custom-made bot that parsed real-time data from ConGecko. 
                                 This data was then used to set up portfolios and predictions for clients of the site. The predictions feature allows for the 
                                 client to estimate the future price of a coin at any future arbitrary amount of time whether its 5 minutes or 24 hours. Once the 
                                 elapsed time-duration is over, the client can then see if their prediction was below or above the actual current price of the token in real-time.</h3>
-                                <br>
-                                <br>
-                                <v-icon color="yellow" size="77">mdi-progress-alert</v-icon>
-                                <h4>Website Deployment in Progress</h4>
                             </v-list-item-content>
-                        </v-list-item>
+                          </v-list-item>
                     </v-app-bar>
                 </v-card>
             </v-col>
@@ -204,6 +202,7 @@ h1 {
 }
   span.typed-text {
     color: green;
+    font-size: xx-large;
   }
 
   span.cursor {
